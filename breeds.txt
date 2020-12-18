@@ -1,0 +1,12 @@
+Dog's breed: Labrador Retriever
+Dog's size: L
+Dog's coat: Short
+Dog's shedding quality: High
+Dog's activity level: Moderate
+
+Dog's breed: Rottweiler
+Dog's size: L
+Dog's coat: Short
+Dog's shedding quality: High
+Dog's activity level: Moderate
+
